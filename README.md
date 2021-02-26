@@ -19,7 +19,7 @@ available.
 
 ## Try Troubleshooting First
 
-Troubleshooting is a critical skill for all programmers and pending time now to get better at
+Troubleshooting is a critical skill for all programmers and spending time now to get better at
 it is time well spent. Improving your ability to troubleshoot will provide a great return on
 your investment as you'll be able to get yourself unstuck and learn how to better approach issues.
 Whenever possible, try to troubleshoot your issue independently first before seeking help. 
@@ -40,11 +40,11 @@ error messages:
 ### Use the Resources Available to You
 
 Sometimes, common issues are noted in lesson materials. Other times, errors occur when an essential step is
-missed. For these reasons, we recommend reviewing the resource available to you through Flatiron School:
+missed. For these reasons, we recommend reviewing the resources available to you through Flatiron School:
 
 - Re-read the lesson you're on thoroughly to make sure you’re not missing relevant details
 - Review previous lessons that may apply to the error or issue you’re experiencing, retracing your steps
-- Checking out [Flatiron School's help articles](https://help.learn.co) - these articles include
+- Check out [Flatiron School's help articles](https://help.learn.co) - these articles include
   advice and answers to frequently asked questions from the Flatiron School Team.
   
 ### Use External Resources
@@ -53,7 +53,7 @@ If you can't find a solution in the internal resources, the best next step is
 often to turn to Google. Some things to note regarding searching:
 
 - How you search yields different results, so it's worth attempting a few
-  slightly different searrches.
+  slightly different searches.
 - Copying and pasting an error message is a great thing to search first. Try
   to identify the main part of an error message, often around the beginning or end.
 - Refine your search based on the results you're getting. Sometimes, you may
