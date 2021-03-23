@@ -32,7 +32,8 @@ error messages:
   you completing work.
 - Error messages often provide clues into what may be going wrong. Often, our first inclination when
   faced with an error message is to _flee_. We see some incomprehensible output and immediately want to do
-  something else. **Don't do this. Read the error!** We'll come back to this with specific examples later on in the course.
+  something else. **Don't do this. Read the error!** We'll come back to this with specific examples later
+  on in the course.
 - Carefully check your spelling and syntax if you receive errors running commands or code.
 - Getting a different error message after trying something is often _good_. A new message can give some
   indication as to what is working and what isn't.
