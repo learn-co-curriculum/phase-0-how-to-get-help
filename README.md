@@ -22,7 +22,7 @@ available.
 Troubleshooting is a critical skill for all programmers and spending time now to get better at
 it is time well spent. Improving your ability to troubleshoot will provide a great return on
 your investment as you'll be able to get yourself unstuck and learn how to better approach issues.
-Whenever possible, try to troubleshoot your issue independently first before seeking help. 
+Whenever possible, try to troubleshoot your issue independently first before seeking help.
 
 Most issues you'll encounter are error messages in your terminal. A few things to keep in mind about
 error messages:
