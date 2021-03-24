@@ -93,3 +93,4 @@ Also, keep an eye out in Slack for messages regarding additional meetings and
 study sessions.
 
 <iframe style="border: 0;" src="https://calendar.google.com/calendar/embed?src=c_mcnbnls2uhbisql1i8fo36um24%40group.calendar.google.com&amp;ctz=America%2FNew_York" width="800" height="600"></iframe>
+
