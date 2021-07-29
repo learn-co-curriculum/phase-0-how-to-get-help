@@ -45,8 +45,9 @@ missed. For these reasons, we recommend reviewing the resources available to you
 
 - Re-read the lesson you're on thoroughly to make sure you’re not missing relevant details
 - Review previous lessons that may apply to the error or issue you’re experiencing, retracing your steps
-- Check out [Flatiron School's help articles](https://help.learn.co) - these articles include
-  advice and answers to frequently asked questions from the Flatiron School Team.
+- Check out [Flatiron's help articles](https://flatironschoolsupport.zendesk.com/hc/en-us)
+  — these articles include advice and answers to frequently asked questions from
+  the Flatiron School Team.
   
 ### Use External Resources
   
