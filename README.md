@@ -19,32 +19,38 @@ available.
 
 ## Try Troubleshooting First
 
-Troubleshooting is a critical skill for all programmers and spending time now to get better at
-it is time well spent. Improving your ability to troubleshoot will provide a great return on
-your investment as you'll be able to get yourself unstuck and learn how to better approach issues.
-Whenever possible, try to troubleshoot your issue independently first before seeking help.
+Troubleshooting is a critical skill for all programmers and spending time now to
+get better at it is time well spent. Improving your ability to troubleshoot will
+provide a great return on your investment as you'll be able to get yourself
+unstuck and learn how to better approach issues. Whenever possible, try to
+troubleshoot your issue independently first before seeking help.
 
-Most issues you'll encounter are error messages in your terminal. A few things to keep in mind about
-error messages:
+Most issues you'll encounter are error messages in your terminal. A few things
+to keep in mind about error messages:
 
-- Not all error messages are equal. Some messages are just warnings. For example, if you install a tool
-  and it works, but produces an error when run - something is wrong, but it shouldn't be a _blocker_ for
-  you completing work.
-- Error messages often provide clues into what may be going wrong. Often, our first inclination when
-  faced with an error message is to _flee_. We see some incomprehensible output and immediately want to do
-  something else. **Don't do this. Read the error!** We'll come back to this with specific examples later
+- Not all error messages are equal. Some messages are just warnings. For
+  example, if you install a tool and it works, but produces an error when run -
+  something is wrong, but it shouldn't be a _blocker_ for you completing work.
+- Error messages often provide clues into what may be going wrong. Often, our
+  first inclination when faced with an error message is to _flee_. We see some
+  incomprehensible output and immediately want to do something else. **Don't do
+  this. Read the error!** We'll come back to this with specific examples later
   on in the course.
-- Carefully check your spelling and syntax if you receive errors running commands or code.
-- Getting a different error message after trying something is often _good_. A new message can give some
-  indication as to what is working and what isn't.
+- Carefully check your spelling and syntax if you receive errors running
+  commands or code.
+- Getting a different error message after trying something is often _good_. A
+  new message can give some indication as to what is working and what isn't.
   
 ### Use the Resources Available to You
 
-Sometimes, common issues are noted in lesson materials. Other times, errors occur when an essential step is
-missed. For these reasons, we recommend reviewing the resources available to you through Flatiron School:
+Sometimes, common issues are noted in lesson materials. Other times, errors
+occur when an essential step is missed. For these reasons, we recommend
+reviewing the resources available to you through Flatiron School:
 
-- Re-read the lesson you're on thoroughly to make sure you’re not missing relevant details
-- Review previous lessons that may apply to the error or issue you’re experiencing, retracing your steps
+- Re-read the lesson you're on thoroughly to make sure you’re not missing
+  relevant details
+- Review previous lessons that may apply to the error or issue you’re
+  experiencing, retracing your steps
 - Check out [Flatiron's help articles](https://flatironschoolsupport.zendesk.com/hc/en-us)
   — these articles include advice and answers to frequently asked questions from
   the Flatiron School Team.
@@ -80,11 +86,15 @@ There is a good chance that fellow students have encountered similar challenges
 to yours. Use the Slack channels available to you to get help:
 
 - You can post in any public channel (e.g., #general)
-- Shortly before you start with a cohort you will be given access to a cohort-specific Slack channel
-- While you're completing the prework, you can post questions in the #js-prework-support channel. There will be other students there who may be able to help, and this channel is also staffed by Flatiron School instructors from 9am to 9pm eastern time, Monday through Friday.
+- Shortly before you start with a cohort you will be given access to a
+  cohort-specific Slack channel
+- While you're completing the prework, you can post questions in the
+  #js-prework-support channel. There will be other students there who may be
+  able to help, and this channel is also staffed by Flatiron School instructors
+  from 9am to 9pm eastern time, Monday through Friday.
 
-Equally, if you find someone else asking a question on Slack that you can 
-provide insight on, please do! One of the best ways to confirm your own 
+Equally, if you find someone else asking a question on Slack that you can
+provide insight on, please do! One of the best ways to confirm your own
 understanding of a concept is to try and help someone else understand it.
 
 ## Attend Support Meetings
@@ -93,5 +103,6 @@ Flatiron runs reoccurring meetings every week. Use these meetings to get help!
 Also, keep an eye out in Slack for messages regarding additional meetings and
 study sessions.
 
-<iframe style="border: 0;" src="https://calendar.google.com/calendar/embed?src=c_mcnbnls2uhbisql1i8fo36um24%40group.calendar.google.com&amp;ctz=America%2FNew_York" width="800" height="600"></iframe>
-
+<iframe style="border: 0;"
+src="https://calendar.google.com/calendar/embed?src=c_mcnbnls2uhbisql1i8fo36um24%40group.calendar.google.com&amp;ctz=America%2FNew_York"
+width="800" height="600"></iframe>
