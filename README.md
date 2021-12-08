@@ -91,7 +91,7 @@ to yours. Use the Slack channels available to you to get help:
 - While you're completing the prework, you can post questions in the
   #js-prework-support channel. There will be other students there who may be
   able to help, and this channel is also staffed by Flatiron School instructors
-  from 9am to 9pm eastern time, Monday through Friday.
+  from 11am to 7pm eastern time, Monday through Friday.
 
 Equally, if you find someone else asking a question on Slack that you can
 provide insight on, please do! One of the best ways to confirm your own
@@ -99,7 +99,7 @@ understanding of a concept is to try and help someone else understand it.
 
 ## Attend Support Meetings
 
-Flatiron runs reoccurring meetings every week. Use these meetings to get help!
+Flatiron runs recurring meetings every week. Use these meetings to get help!
 Also, keep an eye out in Slack for messages regarding additional meetings and
 study sessions.
 
