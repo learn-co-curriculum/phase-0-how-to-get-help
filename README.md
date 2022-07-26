@@ -97,12 +97,11 @@ Equally, if you find someone else asking a question on Slack that you can
 provide insight on, please do! One of the best ways to confirm your own
 understanding of a concept is to try and help someone else understand it.
 
-## Attend Support Meetings
+## Set Yourself Up for Success
 
-Flatiron runs recurring meetings every week. Use these meetings to get help!
-Also, keep an eye out in Slack for messages regarding additional meetings and
-study sessions.
+Flatiron's Academic Success Team runs an information session every week to
+pass along tips for success and introduce students to the help resources available
+to them. These tools will help you as you complete Software Engineering Prep and
+throughout your time in the program.
 
-<iframe style="border: 0;"
-src="https://calendar.google.com/calendar/embed?src=c_mcnbnls2uhbisql1i8fo36um24%40group.calendar.google.com&amp;ctz=America%2FNew_York"
-width="800" height="600"></iframe>
+Sign up for a session here: [Flatiron School Prep: How to Succeed](https://www.eventbrite.com/e/flatiron-school-prep-how-to-succeed-info-session-tickets-273022015197)
