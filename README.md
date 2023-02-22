@@ -104,4 +104,4 @@ pass along tips for success and introduce students to the help resources availab
 to them. These tools will help you as you complete Software Engineering Prep and
 throughout your time in the program.
 
-Sign up for a session here: [Flatiron School Prep: How to Succeed](https://www.eventbrite.com/e/flatiron-school-prep-how-to-succeed-info-session-tickets-273022015197)
+Sign up for a session here: [Flatiron School Prep: How to Succeed](https://www.eventbrite.com/e/how-to-succeed-flatiron-school-prep-session-tickets-486832989577)
