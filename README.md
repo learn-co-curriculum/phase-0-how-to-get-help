@@ -8,16 +8,41 @@
 
 We don't believe in learning alone. As you make progress, expect to bump into
 other learners just like you, ready and willing to help each other succeed.
-Together, we can go further than we could ever go alone. Remember, you are going
-to get stuck sometimes! As with any new skill you learn, coding can be difficult
-and frustrating. After a certain point, being stuck on a problem becomes
-counterproductive - you’re stuck and you need help getting unstuck!
+Together, we can go further than we could ever go alone.
+
+Remember, you are going to get stuck sometimes! As with any new skill you learn,
+coding can be difficult and frustrating. After a certain point, being stuck on a
+problem becomes counterproductive - you’re stuck and you need help getting
+unstuck!
 
 If you get stuck following the instructions or grasping a coding concept, there
 are a few things you can do. In this lesson, we'll look at some of the options
 available.
 
-## Try Troubleshooting First
+## Ask a Technical Coach
+
+We offer Live 1:1 technical support to you as a Flatiron School student through
+the Pair with a Technical Coach service. This is challenging material and you
+will find yourself in situations where you don’t know how to move forward or
+what to try next. Learning how and when to ask for help is essential for your
+success and will keep you from getting stuck for too long.
+
+We are here to:
+
+- Help you continue moving through the curriculum
+- Help you become an independent problem-solver
+- Solidify the concepts that you are learning
+- Build your technical communication skills
+- Provide a collaborative environment in which to learn
+
+Where can you find us?
+
+There is a chat button in the bottom right-hand corner of your lessons. Clicking
+this button will connect you to a live coach.
+
+![chat widget](https://curriculum-content.s3.amazonaws.com/phase-1/how-to-get-help/chat-widget.png)
+
+## Troubleshooting as a Skill
 
 Troubleshooting is a critical skill for all programmers and spending time now to
 get better at it is time well spent. Improving your ability to troubleshoot will
@@ -29,8 +54,9 @@ Most issues you'll encounter are error messages in your terminal. A few things
 to keep in mind about error messages:
 
 - Not all error messages are equal. Some messages are just warnings. For
-  example, if you install a tool and it works, but produces an error when run -
-  something is wrong, but it shouldn't be a _blocker_ for you completing work.
+  example, if you install a tool and it works, but produces an error when run,
+  there is _something_ wrong, but it shouldn't be a _blocker_ for you completing
+  work.
 - Error messages often provide clues into what may be going wrong. Often, our
   first inclination when faced with an error message is to _flee_. We see some
   incomprehensible output and immediately want to do something else. **Don't do
@@ -39,33 +65,35 @@ to keep in mind about error messages:
 - Carefully check your spelling and syntax if you receive errors running
   commands or code.
 - Getting a different error message after trying something is often _good_. A
-  new message can give some indication as to what is working and what isn't.
-  
-### Use the Resources Available to You
+  new message can give different information to help you figure out what's
+  wrong.
+
+## Use the Resources Available to You
 
 Sometimes, common issues are noted in lesson materials. Other times, errors
 occur when an essential step is missed. For these reasons, we recommend
 reviewing the resources available to you through Flatiron School:
 
-- Re-read the lesson you're on thoroughly to make sure you’re not missing
-  relevant details
+- Re-read the lesson you're on thoroughly to make sure you didn't miss
+  relevant details or accidentally skip a step.
 - Review previous lessons that may apply to the error or issue you’re
-  experiencing, retracing your steps
-- Check out [Flatiron's help articles](https://flatironschoolsupport.zendesk.com/hc/en-us)
-  — these articles include advice and answers to frequently asked questions from
-  the Flatiron School Team.
-  
-### Use External Resources
-  
+  experiencing, retracing your steps.
+- Check out [Flatiron's help
+  articles](https://flatironschoolsupport.zendesk.com/hc/en-us). These articles
+  include advice and answers to frequently asked questions from the Flatiron
+  School Team.
+
+## Use External Resources
+
 If you can't find a solution in the internal resources, the best next step is
 often to turn to Google. Some things to note regarding searching:
 
 - How you search yields different results, so it's worth attempting a few
   slightly different searches.
-- Copying and pasting an error message is a great thing to search first. Try
-  to identify the main part of an error message, often around the beginning or end.
+- Copying and pasting an error message is a great search to start with. Try to
+  identify the main part of an error message, often around the beginning or end.
 - Refine your search based on the results you're getting. Sometimes, you may
-  need to be more specific (i.e. you're using a Mac and need to specify because
+  need to be more specific (e.g., you're using a Mac and need to specify because
   all search results are referring to Windows). Sometimes, being too specific
   will yield too few results. Avoid copying anything that may be specific to
   your system, such as a username.
@@ -85,9 +113,9 @@ when you _do_ reach out, you'll be able to ask better, more specific questions.
 There is a good chance that fellow students have encountered similar challenges
 to yours. Use the Slack channels available to you to get help:
 
-- You can post in any public channel (e.g., #general)
+- You can post in any public channel (e.g., #general).
 - Shortly before you start with a cohort you will be given access to a
-  cohort-specific Slack channel
+  cohort-specific Slack channel.
 - While you're completing Software Engineering Prep, you can post questions in
   the #js-prework-support channel. There will be other students there who may be
   able to help, and this channel is also staffed by Flatiron School instructors
@@ -97,11 +125,10 @@ Equally, if you find someone else asking a question on Slack that you can
 provide insight on, please do! One of the best ways to confirm your own
 understanding of a concept is to try and help someone else understand it.
 
-## Set Yourself Up for Success
+## Conclusion
 
-Flatiron's Academic Success Team runs an information session every week to
-pass along tips for success and introduce students to the help resources available
-to them. These tools will help you as you complete Software Engineering Prep and
-throughout your time in the program.
-
-Sign up for a session here: [Flatiron School Prep: How to Succeed](https://www.eventbrite.com/e/free-tech-prep-class-get-your-computer-ready-to-code-tickets-603945877377)
+Seeking out help when you're stuck can be intimidating! But we all get stuck
+sometimes and there's nothing wrong with asking for help. Reaching out to a
+coach or instructor, a fellow student, or the internet can get you moving again
+and maybe give you a fresh perspective on what you're trying to do. You'll also
+be practicing an essential skill for learning to code!
